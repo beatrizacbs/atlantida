@@ -1,11 +1,16 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Ciclo de Vida
+description: Como desenvolvemos nossos produtos?
 ---
 
-## Welcome to another page
+## Ciclo de Vida
 
-_yay_
+
+### Large image
+
+![Branching](https://beatrizacbs.github.io/atlantida/assets/images/diagram.png)
+
+
 
 [back](./)
