@@ -9,7 +9,7 @@ description: Como desenvolvemos nossos produtos?
 
 ### Large image
 
-![Branching](https://beatrizacbs.github.io/atlantida/assets/images/diagram.png)
+![Ciclo de Vida](https://beatrizacbs.github.io/atlantida/assets/images/diagram.svg)
 
 
 
