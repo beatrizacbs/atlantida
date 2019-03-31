@@ -18,6 +18,6 @@ O Ciclo de vida do projeto está dividido em 4 fases: Iniciação, Planejamento,
 
 ### Processo
 
-![Ciclo de Vida](https://beatrizacbs.github.io/atlantida/assets/images/ciclodevida.svg)
+![Ciclo de Vida](https://beatrizacbs.github.io/nopark/assets/images/ciclodevida.svg)
 
 
