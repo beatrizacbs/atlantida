@@ -3,121 +3,36 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+<section class="about-me" id="about-me">
+        <div class="container">
+            <div class="media-object">
+                <div class="icon-left">
+                    <img class="icon" src="assets/start-up.png" alt="start-up">
+                </div>
+                <div class="blurb-wrapper-right">
+                    <h3 class="blurb-header">Technology is my passion</h3>
+                    <div class="blurb-info">I was <b>11 years old</b> when I had my first contact with algorithms. Since then I've been passionate about everything that involves technology, specifically programming. Now, with 17 years old, I'm determined to build a career in mobile development.</div>
+                </div>
+            </div>
 
-[Link to another page](./another-page.html).
+            <div class="media-object">
+                <div class="icon-right">
+                    <img class="icon" src="assets/project-management.png" alt="start-up">
+                </div>
+                <div class="blurb-wrapper-left">
+                    <h3 class="blurb-header">Constant improvement is my strategy</h3>
+                    <div class="blurb-info">I love to exercise my insightfulness and independence. By constantly acquiring knowledge and growing alongside people, I aim to contribute to the well-being of those around me, as well as mine.</div>
+                </div>
+            </div>
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+            <div class="media-object">
+                <div class="icon-left">
+                    <img class="icon" src="assets/success.png" alt="start-up">
+                </div>
+                <div class="blurb-wrapper-right">
+                    <h3 class="blurb-header">Purpose keeps me going</h3>
+                    <div class="blurb-info">To me, any productive work can be rationalized to be meaningful, as any productive work helps someone, somewhere. Foremost, find meaning in a project and know that I'm helping and connecting with people inspire me. </div>
+                </div>
+            </div>
+        </div>
+</section>
