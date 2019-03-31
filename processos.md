@@ -21,24 +21,21 @@ O processo de Iniciação tem o objetivo de recepcionar as demandas existentes d
 
 #### Receber RFP
 
-Estabelecer juntamente com o cliente critérios relevantes do sistema a ser desenvolvido, como limitações, escopo, custo e tempo.
+Receber do cliente uma ou mais RFP's (Request for Proposal).
 
-Entrada: RFP
-Saída: Project Model Canvas
-Atores: Equipe Bio9
+- Entrada: 
+  - RFP
 
 #### Analisar RFP
 
 Estabelecer juntamente com o cliente critérios relevantes do sistema a ser desenvolvido, como limitações, escopo, custo e tempo.
 
-Entrada: RFP
-Saída: Project Model Canvas
-Atores: Equipe Bio9
+- Entrada: 
+  - RFP
+- Atores: 
+  - Equipe?
 
-
-
-
-
+* * *
 
 ## Planejamento
 

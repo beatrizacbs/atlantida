@@ -6,7 +6,7 @@ description: Como desenvolvemos nossos produtos?
 
 ## Ciclo de Vida
 
-Na Atlantida Inc. utilizamos o modelo interativo e incremental além da utilização de metodologias ágeis para o gerenciamento dos projetos.
+Na NoPark utilizamos o modelo interativo e incremental além da utilização de metodologias ágeis para o gerenciamento dos projetos.
 
 Dessa forma, o desenvolvimento do software será feito de forma progressiva, através de entregas sucessivas ao cliente, buscando melhorar continuamente os processos de trabalho e o produto, agregando valor a cada ciclo subsequente, até que o produto final esteja concluído.
 
