@@ -35,6 +35,28 @@ Estabelecer juntamente com o cliente critérios relevantes do sistema a ser dese
 - Atores: 
   - Equipe?
 
+#### Planejar modelo de negócio
+
+Utilizar das técnicas de Lean para planejar de forma mais acertiva o modelo de negócios referente ao projeto.
+
+- Entrada: 
+  - Template de Modelo CANVAS
+- Saída: 
+  - Modelo CANVAS
+- Atores: 
+  - Equipe?
+
+#### Produzir Termo de Abertura
+
+Produzir o termo de abertura de projeto e apresentar ao cliente para que o mesmo possa assinar e oficializar a inicialização das atividades.
+
+- Entrada: 
+  - Template de Termo de Abertura
+- Saída: 
+  - Termo de Abertura
+- Atores: 
+  - Equipe?
+
 * * *
 
 ## Planejamento
