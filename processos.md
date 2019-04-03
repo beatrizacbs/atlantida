@@ -63,29 +63,65 @@ Produzir o termo de abertura de projeto e apresentar ao cliente para que o mesmo
 
 lorem ipsum
 
+![Processo de Planejamento](https://beatrizacbs.github.io/nopark/assets/images/planejamento.svg)
+
 ## Atividades
 
-#### Definir Escopo
+#### Elicitação de Requisitos
 
 Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
 
 Saída: Documento de Visão e Product Backlog
 Atores: Gerente de Projetos
 
+#### Análise dos Requisitos Elicitados
 
-#### Elaborar plano de projeto
+Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
+
+Saída: Documento de Visão e Product Backlog
+Atores: Gerente de Projetos
+
+#### Definição da Arquitetura
+
+Apresentar para o cliente o projeto arquitetural, no qual fora desenvolvido com base nas necessidades e requisitos apresentados durante a Reunião de KickOff.
+
+Saída: Documento Arquitetural
+Atores: Arquiteto de Software e Gerente de Projetos
+
+#### Elaboração do Plano de Testes
 
 Elaboração de todo o plano para a execução, controle, monitoramento, e entrega do produto, analisando recursos, pessoas, tempo, custo e fazendo as devidas alocações.
 
 Saída: Plano de Projeto
 Atores: Gerente de Projetos
 
+#### Definição do Product Backlog
 
-#### Definir Arquitetura
+Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
 
-Apresentar para o cliente o projeto arquitetural, no qual fora desenvolvido com base nas necessidades e requisitos apresentados durante a Reunião de KickOff.
+Saída: Documento de Visão e Product Backlog
+Atores: Gerente de Projetos
 
-Saída: Documento Arquitetural
-Atores: Arquiteto de Software e Gerente de Projetos
+#### Reunião de KickOff com o time
+
+Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
+
+Saída: Documento de Visão e Product Backlog
+Atores: Gerente de Projetos
+
+* * *
+
+## Execução
+
+lorem ipsum
+
+![Processo de Execução](https://beatrizacbs.github.io/nopark/assets/images/planejamento.svg)
+
+## Atividades
+
+
+
+
+
 
 
