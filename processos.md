@@ -35,12 +35,23 @@ Estabelecer juntamente com o cliente critérios relevantes do sistema a ser dese
 - Atores: 
   - Equipe?
 
+#### Propor alterações junto ao cliente
+
+Caso o projeto proposto pelo cliente seja inviável para execução pela equipe, faz-se reunião com o cliente para propor alterações sobre o escopo do projeto.
+
+- Entrada: 
+  - RFP
+- Saída:
+  - RFP
+- Atores: 
+  - Equipe?
+
 #### Planejar modelo de negócio
 
 Utilizar das técnicas de Lean para planejar de forma mais acertiva o modelo de negócios referente ao projeto.
 
 - Entrada: 
-  - Template de Modelo CANVAS
+  - Guia do Modelo CANVAS
 - Saída: 
   - Modelo CANVAS
 - Atores: 
@@ -67,35 +78,56 @@ lorem ipsum
 
 ## Atividades
 
-#### Elicitação de Requisitos
+#### Elicitar Requisitos
 
 Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
 
 Saída: Documento de Visão e Product Backlog
 Atores: Gerente de Projetos
 
-#### Análise dos Requisitos Elicitados
+#### Análisar os Requisitos Elicitados
 
 Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
 
 Saída: Documento de Visão e Product Backlog
 Atores: Gerente de Projetos
 
-#### Definição da Arquitetura
+#### Definir a Arquitetura
 
 Apresentar para o cliente o projeto arquitetural, no qual fora desenvolvido com base nas necessidades e requisitos apresentados durante a Reunião de KickOff.
 
 Saída: Documento Arquitetural
 Atores: Arquiteto de Software e Gerente de Projetos
 
-#### Elaboração do Plano de Testes
+#### Elaborar o Plano de Testes
 
 Elaboração de todo o plano para a execução, controle, monitoramento, e entrega do produto, analisando recursos, pessoas, tempo, custo e fazendo as devidas alocações.
 
 Saída: Plano de Projeto
 Atores: Gerente de Projetos
 
-#### Definição do Product Backlog
+#### Elaborar o Mapeamento dos Riscos
+
+Elaboração de todo o plano para a execução, controle, monitoramento, e entrega do produto, analisando recursos, pessoas, tempo, custo e fazendo as devidas alocações.
+
+Saída: Plano de Projeto
+Atores: Gerente de Projetos
+
+#### Definir o Product Backlog
+
+Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
+
+Saída: Documento de Visão e Product Backlog
+Atores: Gerente de Projetos
+
+#### Priorizar User Stories
+
+Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
+
+Saída: Documento de Visão e Product Backlog
+Atores: Gerente de Projetos
+
+#### Elaborar o Plano de Projetos
 
 Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
 

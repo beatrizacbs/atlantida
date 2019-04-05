@@ -89,6 +89,9 @@
         <sourceRef>DataObjectReference_1u9q8cg</sourceRef>
         <targetRef>Property_0wcequa</targetRef>
       </dataInputAssociation>
+      <dataOutputAssociation id="DataOutputAssociation_0yn5yn2">
+        <targetRef>DataObjectReference_1u9q8cg</targetRef>
+      </dataOutputAssociation>
     </task>
     <eventBasedGateway id="ExclusiveGateway_0kgq9fa">
       <incoming>SequenceFlow_0p19n75</incoming>
@@ -312,6 +315,10 @@
       <bpmndi:BPMNEdge id="DataInputAssociation_0ptxnao_di" bpmnElement="DataInputAssociation_0ptxnao">
         <omgdi:waypoint x="1009" y="386" />
         <omgdi:waypoint x="1009" y="343" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="DataOutputAssociation_0yn5yn2_di" bpmnElement="DataOutputAssociation_0yn5yn2">
+        <omgdi:waypoint x="655" y="468" />
+        <omgdi:waypoint x="521" y="366" />
       </bpmndi:BPMNEdge>
     </bpmndi:BPMNPlane>
   </bpmndi:BPMNDiagram>
