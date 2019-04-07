@@ -32,5 +32,17 @@ Lida com inúmeras funcões necessárias na organização. Ele garante o alinham
 
 O departamento de marketing promove o negócio e missão da organização. Ela serve como o rosto da empresa, coordenando e produzindo todos os materiais que representam o negócio.
 
+### Research and Analysis
+
+Colocar aqui coisas
+
+### Engeneering
+
+Colocar coisas aqui também
+
+### Design
+
+Colocar aqui também
+
 
 [back](./)
