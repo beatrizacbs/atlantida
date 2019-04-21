@@ -72,74 +72,112 @@ Produzir o termo de abertura de projeto e apresentar ao cliente para que o mesmo
 
 ## Planejamento
 
-lorem ipsum
+No processo de planejamento encontrasse toda a estrutura e etapas de planejamento, para que o projeto esteja bem definido e validado entre os atores responsáveis e a organização. 
 
 ![Processo de Planejamento](https://beatrizacbs.github.io/nopark/assets/images/planejamento.svg)
 
-## Atividades
+### Atividades
 
 #### Elicitar Requisitos
 
-Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
+Traduzir as necessidades da RFP em requisitos bem definidos.
 
-Saída: Documento de Visão e Product Backlog
-Atores: Gerente de Projetos
+- Entrada: 
+  - RFP
+  - Template de Documento de Requisitos
+- Saída: 
+  - Documento de Requisitos 
+- Atores: 
+  - Equipe? 
 
 #### Análisar os Requisitos Elicitados
 
-Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
+Os requisitos devem ser analisados em busca de melhorias.
 
-Saída: Documento de Visão e Product Backlog
-Atores: Gerente de Projetos
+- Entrada: 
+  - Documento de Requisitos
+- Atores: 
+  - Equipe? 
 
 #### Definir a Arquitetura
 
-Apresentar para o cliente o projeto arquitetural, no qual fora desenvolvido com base nas necessidades e requisitos apresentados durante a Reunião de KickOff.
+Com base nas necessidades definidas no Documento de Requisitos, deve ser definida a arquitetura dos serviços a serem desenvolvidos. 
 
-Saída: Documento Arquitetural
-Atores: Arquiteto de Software e Gerente de Projetos
+- Entrada: 
+  - Documento de Requisitos
+  - Modelo de Documento de Requisitos
+- Saída: 
+  - Documento Arquitetural
+- Atores: 
+  - Equipe?
 
 #### Elaborar o Plano de Testes
 
-Elaboração de todo o plano para a execução, controle, monitoramento, e entrega do produto, analisando recursos, pessoas, tempo, custo e fazendo as devidas alocações.
+Através das necessidades e critérios definidos pela NoPark, devem ser identificadas as técnicas específicas a serem empregadas para cada caso de teste.
 
-Saída: Plano de Projeto
-Atores: Gerente de Projetos
+- Entrada: 
+  - Modelo de Plano de Testes
+- Saída: 
+  - Plano de Testes
+- Atores: 
+  - Equipe?
 
 #### Elaborar o Mapeamento dos Riscos
 
-Elaboração de todo o plano para a execução, controle, monitoramento, e entrega do produto, analisando recursos, pessoas, tempo, custo e fazendo as devidas alocações.
+Com base na identificação dos riscos internos e externos é feito um mapeamento dos mesmos em uma tabela de exposição.
 
-Saída: Plano de Projeto
-Atores: Gerente de Projetos
+- Entrada: 
+  - Template da Tabela de exposição
+- Saída: 
+  - Tabela de exposição
+- Atores: 
+  - Equipe?
 
 #### Definir o Product Backlog
 
-Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
+Utilizando os artefatos de base fornecidos pelo cliente e definidos até o momento e estruturar um Product Backlog em User Stories. 
 
-Saída: Documento de Visão e Product Backlog
-Atores: Gerente de Projetos
+- Entrada: 
+  - RFP
+  - Documento de Requisitos	
+- Saída: 
+  - Product Backlog (User Stories)
+- Atores: 
+  - Equipe?
 
 #### Priorizar User Stories
 
-Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
+Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
 
-Saída: Documento de Visão e Product Backlog
-Atores: Gerente de Projetos
+- Entrada: 
+  - Product Backlog (User Stories não priorizadas)
+- Saída: 
+  - User Stories priorizadas	
+- Atores: 
+  - Equipe?
 
-#### Elaborar o Plano de Projetos
+#### Elaborar o Plano de Projeto
 
-Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
+Elaboração de todo o plano para a execução, controle, monitoramento, e entrega do produto, analisando recursos, pessoas, tempo, custo e fazendo as devidas alocações com base em todos os artefatos existentes.
 
-Saída: Documento de Visão e Product Backlog
-Atores: Gerente de Projetos
+- Entrada: 
+  - Documento de Requisitos
+  - Documento Arquitetural
+  - Plano de Testes
+  - Modelo de Plano de Projeto
+- Saída: 
+  - Plano de Projeto	
+- Atores: 
+  - Equipe?
 
 #### Reunião de KickOff com o time
 
-Scrum Master e Product Owner definem as prioridades com base nos valores de entrega.
+Momento de alinhamento da equipe, apresentando o plano de projeto com todas as suas seções.
 
-Saída: Documento de Visão e Product Backlog
-Atores: Gerente de Projetos
+- Entrada: 
+  - Plano de Projeto	
+- Atores: 
+  - Equipe
 
 * * *
 
@@ -149,7 +187,18 @@ lorem ipsum
 
 ![Processo de Execução](https://beatrizacbs.github.io/nopark/assets/images/planejamento.svg)
 
-## Atividades
+### Atividades
+
+
+* * *
+
+## Encerramento
+
+lorem ipsum
+
+![Processo de Encerramento](https://beatrizacbs.github.io/nopark/assets/images/planejamento.svg)
+
+### Atividades
 
 
 
