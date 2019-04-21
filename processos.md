@@ -185,10 +185,100 @@ Momento de alinhamento da equipe, apresentando o plano de projeto com todas as s
 
 lorem ipsum
 
-![Processo de Execução](https://beatrizacbs.github.io/nopark/assets/images/planejamento.svg)
+![Processo de Execução](https://beatrizacbs.github.io/nopark/assets/images/execucao.svg)
 
 ### Atividades
 
+#### Definição da Visão do Projeto
+
+Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+
+- Saída: 
+  - Visão do Projeto	
+- Atores: 
+  - Equipe?
+
+#### Definição da Visão da Sprint
+
+Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+
+- Saída: 
+  - Visão da Sprint	
+- Atores: 
+  - Equipe?
+
+#### Definir Backlog da Sprint
+
+Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+
+- Entrada: 
+  - Product Backlog (User Stories priorizadas)
+- Saída: 
+  - Sprint Backlog	
+- Atores: 
+  - Equipe?
+
+#### Executar tarefas da Sprint
+
+Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+	
+- Atores: 
+  - Time
+
+#### Executar Testes
+
+Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+
+- Entrada: 
+  - Plano de Testes
+- Saída: 
+  - Relatório dos Testes	
+- Atores: 
+  - Time
+
+#### Incrementar Produto
+
+Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+
+- Entrada: 
+  - Código/Feature desenvolvido
+- Saída: 
+  - Pull Request	
+- Atores: 
+  - Time
+
+#### Sprint Review
+
+Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+
+- Entrada: 
+  - Atividades concluídas
+- Saída: 
+  - Lições aprendidas 
+  - Release da aplicação	
+- Atores: 
+  - Time
+
+#### Deploy final da Aplicação
+
+Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+
+- Entrada: 
+  - Releases da aplicação
+- Saída: 
+  - Versão estável da aplicação	
+- Atores: 
+  - Time
+
+#### Retrospectiva do Projeto
+
+Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+
+- Saída: 
+  - Melhorias identificadas no processo	
+  - Lições aprendidas
+- Atores: 
+  - Time
 
 * * *
 
