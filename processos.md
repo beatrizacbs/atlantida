@@ -286,10 +286,42 @@ Após a finalização das etapas anteriores e tendo em mão o product backlog em
 
 lorem ipsum
 
-![Processo de Encerramento](https://beatrizacbs.github.io/nopark/assets/images/planejamento.svg)
+![Processo de Encerramento](https://beatrizacbs.github.io/nopark/assets/images/encerramento.svg)
 
 ### Atividades
 
+#### Marcar Reunião com o Cliente
+
+Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+
+- Entrada: 
+  - Releases da aplicação
+- Saída: 
+  - Versão estável da aplicação	
+- Atores: 
+  - Time
+
+#### Reunião de Apresentação das Features Desenvolvidas
+
+Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+
+- Entrada: 
+  - Releases da aplicação
+- Saída: 
+  - Versão estável da aplicação	
+- Atores: 
+  - Time
+
+#### Encerrar o Projeto
+
+Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+
+- Entrada: 
+  - Releases da aplicação
+- Saída: 
+  - Versão estável da aplicação	
+- Atores: 
+  - Time
 
 
 
