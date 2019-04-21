@@ -33,7 +33,7 @@ Estabelecer juntamente com o cliente critérios relevantes do sistema a ser dese
 - Entrada: 
   - RFP
 - Atores: 
-  - Equipe?
+  - Time?
 
 #### Propor alterações junto ao cliente
 
@@ -44,7 +44,7 @@ Caso o projeto proposto pelo cliente seja inviável para execução pela equipe,
 - Saída:
   - RFP
 - Atores: 
-  - Equipe?
+  - Time?
 
 #### Planejar modelo de negócio
 
@@ -55,7 +55,7 @@ Utilizar das técnicas de Lean para planejar de forma mais acertiva o modelo de 
 - Saída: 
   - Modelo CANVAS
 - Atores: 
-  - Equipe?
+  - Time?
 
 #### Produzir Termo de Abertura
 
@@ -66,7 +66,7 @@ Produzir o termo de abertura de projeto e apresentar ao cliente para que o mesmo
 - Saída: 
   - Termo de Abertura
 - Atores: 
-  - Equipe?
+  - Time?
 
 * * *
 
@@ -88,7 +88,7 @@ Traduzir as necessidades da RFP em requisitos bem definidos.
 - Saída: 
   - Documento de Requisitos 
 - Atores: 
-  - Equipe? 
+  - Time? 
 
 #### Análisar os Requisitos Elicitados
 
@@ -97,7 +97,7 @@ Os requisitos devem ser analisados em busca de melhorias.
 - Entrada: 
   - Documento de Requisitos
 - Atores: 
-  - Equipe? 
+  - Time? 
 
 #### Definir a Arquitetura
 
@@ -109,7 +109,7 @@ Com base nas necessidades definidas no Documento de Requisitos, deve ser definid
 - Saída: 
   - Documento Arquitetural
 - Atores: 
-  - Equipe?
+  - Time?
 
 #### Elaborar o Plano de Testes
 
@@ -120,7 +120,7 @@ Através das necessidades e critérios definidos pela NoPark, devem ser identifi
 - Saída: 
   - Plano de Testes
 - Atores: 
-  - Equipe?
+  - Time?
 
 #### Elaborar o Mapeamento dos Riscos
 
@@ -131,7 +131,7 @@ Com base na identificação dos riscos internos e externos é feito um mapeament
 - Saída: 
   - Tabela de exposição
 - Atores: 
-  - Equipe?
+  - Time?
 
 #### Definir o Product Backlog
 
@@ -143,7 +143,7 @@ Utilizando os artefatos de base fornecidos pelo cliente e definidos até o momen
 - Saída: 
   - Product Backlog (User Stories)
 - Atores: 
-  - Equipe?
+  - Time?
 
 #### Priorizar User Stories
 
@@ -154,7 +154,7 @@ Após a finalização das etapas anteriores e tendo em mão o product backlog em
 - Saída: 
   - User Stories priorizadas	
 - Atores: 
-  - Equipe?
+  - Time?
 
 #### Elaborar o Plano de Projeto
 
@@ -168,7 +168,7 @@ Elaboração de todo o plano para a execução, controle, monitoramento, e entre
 - Saída: 
   - Plano de Projeto	
 - Atores: 
-  - Equipe?
+  - Time?
 
 #### Reunião de KickOff com o time
 
@@ -177,13 +177,13 @@ Momento de alinhamento da equipe, apresentando o plano de projeto com todas as s
 - Entrada: 
   - Plano de Projeto	
 - Atores: 
-  - Equipe
+  - Time
 
 * * *
 
 ## Execução
 
-lorem ipsum
+Na fase de implementação, o Time estará focado no desenvolvimento da sprint. Quando todas as sprints do ciclo do projeto forem finalizadas, será possível fazer as próximas fases de entrega e encerramento do projeto.
 
 ![Processo de Execução](https://beatrizacbs.github.io/nopark/assets/images/execucao.svg)
 
@@ -191,43 +191,43 @@ lorem ipsum
 
 #### Definição da Visão do Projeto
 
-Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+Definir a direção do Projeto e os objetivos a serem alcançados no encerramento dele.
 
 - Saída: 
   - Visão do Projeto	
 - Atores: 
-  - Equipe?
+  - Time?
 
 #### Definição da Visão da Sprint
 
-Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+Definir a direção da Sprint e os objetivos a serem alcançados no encerramento dessa.
 
 - Saída: 
   - Visão da Sprint	
 - Atores: 
-  - Equipe?
+  - Time?
 
 #### Definir Backlog da Sprint
 
-Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+Com base no Product Backlog já priorizado, é feito um momento para definição do Backlog da Sprint atual. 
 
 - Entrada: 
   - Product Backlog (User Stories priorizadas)
 - Saída: 
   - Sprint Backlog	
 - Atores: 
-  - Equipe?
+  - Time?
 
 #### Executar tarefas da Sprint
 
-Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+Codificar e criar as funcionalidades definidas no planejamento.
 	
 - Atores: 
   - Time
 
 #### Executar Testes
 
-Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+A cada funcionalidade nova desenvolvida deve ser executado um conjunto de testes, estes, definidos no plano de testes e ao fim deve ser gerado um relatório para acompanhamento. 
 
 - Entrada: 
   - Plano de Testes
@@ -238,7 +238,7 @@ Após a finalização das etapas anteriores e tendo em mão o product backlog em
 
 #### Incrementar Produto
 
-Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+O código fonte é atualizado no repositório, e uma nova versão do produto é gerada através de uma pull request. 
 
 - Entrada: 
   - Código/Feature desenvolvido
@@ -249,7 +249,7 @@ Após a finalização das etapas anteriores e tendo em mão o product backlog em
 
 #### Sprint Review
 
-Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+Avaliação das funcionalidade entregues com os objetivos da sprint, também levantando os problemas e situações que ocorreram na sprint, o foco é procurar solucioná-los para melhorar o ciclo para a próxima Sprint.
 
 - Entrada: 
   - Atividades concluídas
@@ -261,7 +261,7 @@ Após a finalização das etapas anteriores e tendo em mão o product backlog em
 
 #### Deploy final da Aplicação
 
-Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+Realizar o Deploy da versão estável da aplicação para o ambiente de produção. 
 
 - Entrada: 
   - Releases da aplicação
@@ -272,7 +272,7 @@ Após a finalização das etapas anteriores e tendo em mão o product backlog em
 
 #### Retrospectiva do Projeto
 
-Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+Na Retrospectiva, o Time relata sobre problemas, situação que ocorreram durante a sprint, o foco é procurar sempre melhorar o processo.
 
 - Saída: 
   - Melhorias identificadas no processo	
@@ -284,7 +284,7 @@ Após a finalização das etapas anteriores e tendo em mão o product backlog em
 
 ## Encerramento
 
-lorem ipsum
+É a fase onde todos os requisitos serão concluídos, formalizando assim a conclusão do projeto e delimitando a entrega final do produto.
 
 ![Processo de Encerramento](https://beatrizacbs.github.io/nopark/assets/images/encerramento.svg)
 
@@ -292,34 +292,27 @@ lorem ipsum
 
 #### Marcar Reunião com o Cliente
 
-Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+Negociar data com o cliente para realização de reunião.
 
-- Entrada: 
-  - Releases da aplicação
-- Saída: 
-  - Versão estável da aplicação	
 - Atores: 
-  - Time
+  - Time?
 
 #### Reunião de Apresentação das Features Desenvolvidas
 
-Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+Apresentar ao cliente as features desenvolvidas no projeto.
 
-- Entrada: 
-  - Releases da aplicação
-- Saída: 
-  - Versão estável da aplicação	
 - Atores: 
   - Time
 
 #### Encerrar o Projeto
 
-Após a finalização das etapas anteriores e tendo em mão o product backlog em formato de User stories, é feito um momento para priorização das mesmas, afim de definir quais são as que possuem uma complexidade e/ou criticidade maior para o desenvolvimento.
+Formalizar a entrega do produto junto ao cliente acompanhado de toda a documentação do projeto.
 
 - Entrada: 
-  - Releases da aplicação
+  - Termo de Aceite 
+  - Artefatos do Projeto
 - Saída: 
-  - Versão estável da aplicação	
+  - Termo de Aceite
 - Atores: 
   - Time
 
