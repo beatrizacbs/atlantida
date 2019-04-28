@@ -4,8 +4,6 @@ title: Papéis
 description: Qais sãos papéis na NoPark?
 ---
 
-## Welcome to another page
-
 ![Organograma](https://beatrizacbs.github.io/nopark/assets/images/organograma.jpg)
 
 ## Organograma

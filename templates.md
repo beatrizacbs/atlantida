@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Templates
+description: Temos aqui nosso arquivo de templates de documentos!
 ---
 
-## Welcome to another page
+[Ata de Reunião](https://docs.google.com/document/d/1wwfshpW9-DGHe3mEGJFUlfsWKnpIsH870VIOwlG-Fo0/edit?usp=sharing)
 
-_yay_
+[Matriz Qualitativa](https://drive.google.com/file/d/1GXuJbQovHNIZEMD7SZJkXD6SOnoLIqoj/view?usp=sharing)
 
-[back](./)
