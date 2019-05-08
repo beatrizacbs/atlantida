@@ -32,14 +32,14 @@ O departamento de marketing promove o negócio e missão da organização. Ela s
 
 ### Research and Analysis
 
-Colocar aqui coisas
+A parte de análise e pesquisa está voltada para fazer analise de andamento do sistema como um todo e pesquisar e aplicar melhorias que possam agregar valor ao negócio e ao cliente/usuário.
 
 ### Engeneering
 
-Colocar coisas aqui também
+Área da empresa que faz o desenvolvimento, presta suporte e implementa novas features do sistema da empresa. São os executores em termos de software development.
 
 ### Design
 
-Colocar aqui também
+A parte de design focada na parte de identidade visual, design de telas e novas features, user experience, branding e tudo que envolve questão visual e de usabilidade do sistema e empresa.
 
 
