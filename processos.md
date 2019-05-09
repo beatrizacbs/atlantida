@@ -33,7 +33,7 @@ Estabelecer juntamente com o cliente critérios relevantes do sistema a ser dese
 - Entrada: 
   - RFP
 - Atores: 
-  - Time?
+  - Legal Division
 
 #### Propor alterações junto ao cliente
 
@@ -44,7 +44,7 @@ Caso o projeto proposto pelo cliente seja inviável para execução pela equipe,
 - Saída:
   - RFP
 - Atores: 
-  - Time?
+  - Legal Division , Admin Division
 
 #### Planejar modelo de negócio
 
@@ -55,7 +55,7 @@ Utilizar das técnicas de Lean para planejar de forma mais acertiva o modelo de 
 - Saída: 
   - Modelo CANVAS
 - Atores: 
-  - Time?
+  - General Manager/Founders
 
 #### Produzir Termo de Abertura
 
@@ -66,7 +66,7 @@ Produzir o termo de abertura de projeto e apresentar ao cliente para que o mesmo
 - Saída: 
   - Termo de Abertura
 - Atores: 
-  - Time?
+  - General Manager/Founders , Legal Division
 
 * * *
 
@@ -88,7 +88,7 @@ Traduzir as necessidades da RFP em requisitos bem definidos.
 - Saída: 
   - Documento de Requisitos 
 - Atores: 
-  - Time? 
+  - General Manager/Founders , Research and Analysis 
 
 #### Análisar os Requisitos Elicitados
 
@@ -97,7 +97,7 @@ Os requisitos devem ser analisados em busca de melhorias.
 - Entrada: 
   - Documento de Requisitos
 - Atores: 
-  - Time? 
+  - General Manager/Founders , Research and Analysis  
 
 #### Definir a Arquitetura
 
@@ -109,7 +109,7 @@ Com base nas necessidades definidas no Documento de Requisitos, deve ser definid
 - Saída: 
   - Documento Arquitetural
 - Atores: 
-  - Time?
+  - General Manager/Founders , Research and Analysis 
 
 #### Elaborar o Plano de Testes
 
@@ -120,7 +120,7 @@ Através das necessidades e critérios definidos pela NoPark, devem ser identifi
 - Saída: 
   - Plano de Testes
 - Atores: 
-  - Time?
+  - General Manager/Founders , Research and Analysis 
 
 #### Elaborar o Mapeamento dos Riscos
 
@@ -131,7 +131,7 @@ Com base na identificação dos riscos internos e externos é feito um mapeament
 - Saída: 
   - Tabela de exposição
 - Atores: 
-  - Time?
+  - General Manager/Founders , Research and Analysis 
 
 #### Definir o Product Backlog
 
@@ -143,7 +143,7 @@ Utilizando os artefatos de base fornecidos pelo cliente e definidos até o momen
 - Saída: 
   - Product Backlog (User Stories)
 - Atores: 
-  - Time?
+  - General Manager/Founders , Research and Analysis 
 
 #### Priorizar User Stories
 
@@ -154,7 +154,7 @@ Após a finalização das etapas anteriores e tendo em mão o product backlog em
 - Saída: 
   - User Stories priorizadas	
 - Atores: 
-  - Time?
+  - Time
 
 #### Elaborar o Plano de Projeto
 
@@ -168,7 +168,7 @@ Elaboração de todo o plano para a execução, controle, monitoramento, e entre
 - Saída: 
   - Plano de Projeto	
 - Atores: 
-  - Time?
+  - General Manager/Founders , Research and Analysis 
 
 #### Reunião de KickOff com o time
 
@@ -196,7 +196,7 @@ Definir a direção do Projeto e os objetivos a serem alcançados no encerrament
 - Saída: 
   - Visão do Projeto	
 - Atores: 
-  - Time?
+  - General Manager/Founders , Research and Analysis 
 
 #### Definição da Visão da Sprint
 
@@ -205,7 +205,7 @@ Definir a direção da Sprint e os objetivos a serem alcançados no encerramento
 - Saída: 
   - Visão da Sprint	
 - Atores: 
-  - Time?
+  - General Manager/Founders , Research and Analysis 
 
 #### Definir Backlog da Sprint
 
@@ -216,7 +216,7 @@ Com base no Product Backlog já priorizado, é feito um momento para definição
 - Saída: 
   - Sprint Backlog	
 - Atores: 
-  - Time?
+  - Time
 
 #### Executar tarefas da Sprint
 
@@ -295,7 +295,7 @@ Na Retrospectiva, o Time relata sobre problemas, situação que ocorreram durant
 Negociar data com o cliente para realização de reunião.
 
 - Atores: 
-  - Time?
+  - General Manager/Founders , Research and Analysis 
 
 #### Reunião de Apresentação das Features Desenvolvidas
 
